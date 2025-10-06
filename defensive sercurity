@@ -1,0 +1,42 @@
+# Defensive Security Summary
+
+Defensive security focuses on **preventing** and **detecting** intrusions to protect systems and networks, contrasting with offensive security, which exploits vulnerabilities. Blue teams handle defensive tasks.
+
+## Key Defensive Security Tasks
+- **User Awareness**: Train users to recognize and avoid cyber threats.
+- **Asset Management**: Document and manage systems/devices for protection.
+- **System Updates**: Patch systems to fix known vulnerabilities.
+- **Preventative Devices**: Use firewalls (control network traffic) and intrusion prevention systems (IPS) (block malicious traffic).
+- **Logging & Monitoring**: Track network activity to detect unauthorized devices or actions.
+
+## Main Topics
+### Security Operations Center (SOC)
+- **Role**: Monitors networks/systems for malicious activity.
+- **Focus Areas**:
+  - **Vulnerabilities**: Fix weaknesses with patches or mitigation.
+  - **Policy Violations**: Detect breaches of security rules (e.g., unauthorized data uploads).
+  - **Unauthorized Activity**: Identify and block stolen credential usage.
+  - **Network Intrusions**: Detect and respond to breaches quickly.
+- **Threat Intelligence**:
+  - Collects data (logs, forums) to understand adversaries’ tactics, techniques, and motives.
+  - Analyzes data to predict and mitigate attacks, creating actionable response strategies.
+
+### Digital Forensics and Incident Response (DFIR)
+- **Digital Forensics**:
+  - Investigates cybercrimes using:
+    - **File System**: Analyze storage for evidence of programs/files.
+    - **System Memory**: Examine memory for malicious programs.
+    - **Logs**: Review system/network logs for attack traces.
+- **Incident Response**:
+  - Handles data breaches or attacks with four phases:
+    - **Preparation**: Train teams and implement preventative measures.
+    - **Detection & Analysis**: Identify and assess incidents.
+    - **Containment, Eradication, Recovery**: Stop, remove, and recover from incidents.
+    - **Post-Incident**: Document lessons to prevent recurrence.
+- **Malware Analysis**:
+  - Studies malicious software (viruses, trojans, ransomware).
+  - **Static Analysis**: Inspect code without running it (requires assembly knowledge).
+  - **Dynamic Analysis**: Run malware in a controlled environment to observe behavior.
+
+---
+*Generated for quick reference on GitHub. Last updated: October 6, 2025.*
