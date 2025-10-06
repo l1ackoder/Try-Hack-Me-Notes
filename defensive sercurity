@@ -1,3 +1,4 @@
+
 # Defensive Security Summary
 
 Defensive security focuses on **preventing** and **detecting** intrusions to protect systems and networks, contrasting with offensive security, which exploits vulnerabilities. Blue teams handle defensive tasks.
@@ -39,4 +40,3 @@ Defensive security focuses on **preventing** and **detecting** intrusions to pro
   - **Dynamic Analysis**: Run malware in a controlled environment to observe behavior.
 
 ---
-*Generated for quick reference on GitHub. Last updated: October 6, 2025.*
